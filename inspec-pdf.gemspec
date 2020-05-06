@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "inspec-pdf"
-  spec.version       = "0.1.1"
+  spec.version       = "0.1.2"
   spec.authors       = ["Nick Schwaderer"]
   spec.email         = ["nicholas.schwaderer@gmail.com"]
   spec.summary       = "Inspec plugin for PDF generation"
