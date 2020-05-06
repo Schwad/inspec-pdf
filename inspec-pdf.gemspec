@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name          = "inspec"
+  spec.name          = "inspec-pdf"
   spec.version       = "0.1.0"
   spec.authors       = ["Nick Schwaderer"]
   spec.email         = ["nicholas.schwaderer@gmail.com"]
